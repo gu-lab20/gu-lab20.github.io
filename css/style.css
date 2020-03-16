@@ -163,74 +163,7 @@ body {
 	padding: 20px 0;
 	width: 960px;
 }
-/*
-#body .sidebar {
-	background: #94acb3;
-	float: left;
-	margin: 0 10px 0 20px;
-	padding: 0 0 10px;
-	width: 210px;
-}
-#body .sidebar h3 {
-	border-bottom: 2px solid #ffe600;
-	color: #ffe600;
-	font-size: 16px;
-	font-weight: normal;
-	line-height: 30px;
-	margin: 0;
-	padding: 3px 0;
-	text-align: center;
-	text-transform: uppercase;
-}
-#body .sidebar ul {
-	margin: 0;
-	padding: 0 0 0 20px;
-}
-#body .sidebar ul li {
-	color: #fff;
-	font-size: 12px;
-	list-style: none;
-	line-height: 30px;
-	margin: 0;
-	padding: 10px 0;
-}
-#body .sidebar ul li span {
-	background: url(../images/icons.png) no-repeat;
-	display: block;
-	margin: 0;
-	padding: 0 0 0 23px;
-	text-transform: uppercase;
-}
-#body .sidebar ul li span.address {
-	background-position: 0 -141px;
-}
-#body .sidebar ul li span.phone {
-	background-position: 0 -166px;
-}
-#body .sidebar ul li span.email {
-	background-position: 0 -191px;
-}
-#body .sidebar ul li span.twitter {
-	background-position: 0 -216px;
-}
-#body .sidebar ul li span.facebook {
-	background-position: 0 -241px;
-}
-#body .sidebar ul ul {
-	margin: 0;
-	padding: 0;
-}
-#body .sidebar ul ul li {
-	padding: 0;
-}
-#body .sidebar ul li a {
-	color: #ffe600;
-	text-decoration: none;
-}
-#body .sidebar ul li a:hover {
-	text-decoration: underline;
-}
-*/
+
 #body .content {
 	float: left;
 	margin: 0 10px 0 20px;
@@ -331,13 +264,6 @@ body {
 	margin: 0;
 	padding: 10px 0 10px;
 }
-#body ul li .article p a {
-	color: #767676;
-	text-decoration: underline;
-}
-#body ul li .article p a:hover {
-	color: #333;
-}
 #body ul li .article ul {
 	float: left;
 	margin: 0;
@@ -352,14 +278,7 @@ body {
 	padding: 0;
 	width: 900px;
 }
-#body ul li .article ul li a {
-	color: #767676;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-#body ul li .article ul li a:hover {
-	color: #386370;
-}
+
 #body .content .section {
 	margin: 0;
 	overflow: hidden;
@@ -514,80 +433,4 @@ body {
 }
 #body #blog .article .more:hover {
 	text-decoration: underline;
-}
-
-/*
-#footer {
-	border-top: 2px solid #ffe600;
-	margin: 2px 0 0;
-	padding: 16px 0;
-}
-#footer div {
-	margin: 0 auto;
-	overflow: hidden;
-	padding: 0;
-	width: 960px;
-}
-#footer div p {
-	color: #767676;
-	float: left;
-	font-size: 11px;
-	line-height: 27px;
-	margin: 0;
-	padding: 0 0 0 10px;
-}
-#footer div p span {
-	padding: 0 16px 0 0;
-}
-#footer div p a {
-	color: #767676;
-	text-decoration: none;
-}
-#footer div p a:hover {
-	color: #000;
-}
-#footer div ul {
-	float: right;
-	margin: 0;
-	overflow: hidden;
-	padding: 0;
-}
-#footer div ul li {
-	float: left;
-	list-style: none;
-	margin: 0 12px 0 0;
-	padding: 0;
-}
-#footer div ul li a {
-	background: url(../images/icons.png) no-repeat;
-	display: block;
-	height: 27px;
-	margin: 0;
-	padding: 0;
-	text-indent: -99999px;
-	width: 27px;
-}
-#footer div ul #facebook a {
-	background-position: 0 0;
-}
-#footer div ul #facebook a:hover {
-	background-position: -32px 0;
-}
-#footer div ul #twitter a {
-	background-position: 0 -37px;
-}
-#footer div ul #twitter a:hover {
-	background-position: -32px -37px;
-}
-#footer div ul #googleplus a {
-	background-position: 0 -74px;
-}
-#footer div ul #googleplus a:hover {
-	background-position: -32px -74px;
-}
-#footer div ul #rss a {
-	background-position: 0 -111px;
-}
-#footer div ul #rss a:hover {
-	background-position: -32px -111px;
 }
